@@ -1,6 +1,6 @@
 ## holarryho.com
 
-Personal website repo. Hosted using GitHub Pages.
+Personal website repo. Hosted by GitHub Pages.
 
 ### Website management:
 
